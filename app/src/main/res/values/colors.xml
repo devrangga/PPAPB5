@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="slate">#0B2447</color>
+    <color name="grey">#EDEDED</color>
+    <color name="grey2">#828282</color>
+</resources>
